@@ -132,7 +132,7 @@ const produk = () => {
       <AttentionContainer>
         <h6>
           Produk ini bisa didapatkan di stand bazar
-          <span>KALIMASTU ITG</span>
+          <span> KALIMASTU ITG</span>
         </h6>
       </AttentionContainer>
     </>

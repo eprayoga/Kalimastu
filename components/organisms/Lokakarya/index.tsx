@@ -24,7 +24,7 @@ export default function Lokakarya() {
           locate="UMKM KP Pangkalan Desa Sindangratu"
         />
         <LokakaryaCard
-          thumbnail="penunjuk_arah_jalan.jpg"
+          thumbnail="penunjuk_arah_jalan.JPG"
           type="Proker Sipil"
           name="Pembuatan Visual Display atau Penunjuk Arah Jalan"
           locate="Jalan Kampung Pangkalan"
